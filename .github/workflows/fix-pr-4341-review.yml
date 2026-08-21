@@ -1,5 +1,6 @@
 name: Fix PR 4341 review
 
+# One-shot runner for the open feature branch.
 on:
   push:
     branches: [main]
